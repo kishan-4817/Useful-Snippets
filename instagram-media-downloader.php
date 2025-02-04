@@ -39,7 +39,7 @@ function instagram_media_downloader_shortcode() {
                 CURLOPT_CUSTOMREQUEST => "GET",
                 CURLOPT_HTTPHEADER => [
                     "x-rapidapi-host: instagram-media-downloader9.p.rapidapi.com",
-                    "x-rapidapi-key: f910ca037amsh131c07c5254742fp123ac3jsndf11ac2384a9"
+                    "x-rapidapi-key: EXAMPLE API"
                 ],
             ]);
         }
